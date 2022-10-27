@@ -2,7 +2,7 @@
 CSC 212 Fall
 Review Project
 
-Group Members: Jay Gomes, Cameron Brickett
+Group Members: Jay Gomes, Cameron Brickett, Ishan Chadha
 
 This project will take grades earned for the class and callculate a current final grade.
 The user will be promted to enter all available grades. The algorithm will calculate the grade
@@ -198,5 +198,23 @@ int main(){
     SET 2:
     
     SET 3:
+    
+    Labs:
+    100 
+    100
+    100
+    0
+    0
+    0
+    
+    Assignments:
+    50
+    80
+    0
+    100
+    Final:
+    63
+    Project: 
+    0
     
 */
