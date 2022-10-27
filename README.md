@@ -8,6 +8,16 @@ This project will take grades earned for the class and callculate a current fina
 The user will be promted to enter all available grades. The algorithm will calculate the grade
 based on the courses wight and return a final grade.
 
+Contributions -
+Cameron Brickett -
+callculateFinal() function
+test case 1
+
+
+Jay Gomes - 
+
+Ishan Chadha - 
+
 
 input: integer grades available:
 
