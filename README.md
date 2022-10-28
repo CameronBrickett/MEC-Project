@@ -206,6 +206,23 @@ int main(){
     
     
     SET 2:
+    Labs:
+    100 
+    100
+    100
+    100
+    100
+    100
+    
+    Assignments:
+    57
+    87
+    70
+    100
+    Final:
+    63
+    Project: 
+    88
     
     SET 3:
     
